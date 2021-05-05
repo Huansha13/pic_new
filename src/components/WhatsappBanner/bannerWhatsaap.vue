@@ -8,19 +8,19 @@
      <div class="row">
        <div class="col-12 col-sm-12 col-md-6 col-lg-4">
          <div class="box-banner">
-           <img src="https://www.calculadoradefletes.com/assets/img/flags/panamaRound.svg" alt="">
+           <img src="https://www.calculadoradefletes.com/assets/img/flags/panama.svg" alt="">
            <h3>Panamá | +50762197664</h3>
          </div>
        </div>
        <div class="col-12 col-sm-12 col-md-6 col-lg-4">
          <div class="box-banner">
-           <img src="https://www.calculadoradefletes.com/assets/img/flags/peruRound.svg" alt="">
+           <img src="https://www.calculadoradefletes.com/assets/img/flags/peru.svg" alt="">
            <h3>Perú | +51920301745</h3>
          </div>
        </div>
        <div class="col-12 col-sm-12 col-md-6 col-lg-4">
          <div class="box-banner">
-           <img src="https://www.calculadoradefletes.com/assets/img/flags/venezuelaRound.svg" alt="">
+           <img src="https://res.cloudinary.com/yfr/image/upload/v1620209403/portafolio/venezuela_kxu5j4.svg" alt="">
            <h3>Venezuela | +582127632240</h3>
          </div>
        </div>
