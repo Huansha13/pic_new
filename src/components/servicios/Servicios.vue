@@ -93,7 +93,7 @@ export default {
 }
 .icon {
   i {
-    color: #121212;
+    color: #121212 !important;
   }
   display: flex;
   margin-right: 6px;
