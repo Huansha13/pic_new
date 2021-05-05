@@ -61,4 +61,9 @@ li {
 a {
   color: #42b983;
 }
+
+@media (max-width: 768px) {
+
+
+}
 </style>
