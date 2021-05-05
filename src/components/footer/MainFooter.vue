@@ -54,7 +54,7 @@
             </div>
             <div class="btns">
               <button> <i class="uil uil-whatsapp"></i> &nbsp; WhatsApp </button>
-              <button><img src="https://www.flaticon.com/svg/vstatic/svg/555/555605.svg?token=exp=1620174336~hmac=f42e3ba7fb15a8c6f65eea95ef251027" alt=""> &nbsp; Perú </button>
+              <button><img src="https://www.calculadoradefletes.com/assets/img/flags/peruRound.svg" alt=""> &nbsp; Perú </button>
             </div>
           </div>
         </div>

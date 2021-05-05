@@ -8,19 +8,19 @@
      <div class="row">
        <div class="col-12 col-sm-12 col-md-6 col-lg-4">
          <div class="box-banner">
-           <img src="https://www.flaticon.com/svg/vstatic/svg/555/555632.svg?token=exp=1620174424~hmac=29f86838fe7a84ea02144738c6707f33" alt="">
+           <img src="https://www.calculadoradefletes.com/assets/img/flags/panamaRound.svg" alt="">
            <h3>Panamá | +50762197664</h3>
          </div>
        </div>
        <div class="col-12 col-sm-12 col-md-6 col-lg-4">
          <div class="box-banner">
-           <img src="https://www.flaticon.com/svg/vstatic/svg/555/555605.svg?token=exp=1620174336~hmac=f42e3ba7fb15a8c6f65eea95ef251027" alt="">
+           <img src="https://www.calculadoradefletes.com/assets/img/flags/peruRound.svg" alt="">
            <h3>Perú | +51920301745</h3>
          </div>
        </div>
        <div class="col-12 col-sm-12 col-md-6 col-lg-4">
          <div class="box-banner">
-           <img src="https://www.flaticon.com/svg/vstatic/svg/555/555622.svg?token=exp=1620174456~hmac=f718e6854c75c4cd467b0e2165e45e08" alt="">
+           <img src="https://www.calculadoradefletes.com/assets/img/flags/venezuelaRound.svg" alt="">
            <h3>Venezuela | +582127632240</h3>
          </div>
        </div>

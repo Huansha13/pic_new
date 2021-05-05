@@ -138,7 +138,7 @@ export default  {
         {
           title:'Carrera de Marketing Digital',
           like: 21,
-          logoPais: 'https://www.flaticon.com/svg/vstatic/svg/555/555605.svg?token=exp=1620174336~hmac=f42e3ba7fb15a8c6f65eea95ef251027',
+          logoPais: 'https://www.calculadoradefletes.com/assets/img/flags/peruRound.svg',
           pais: 'Peru',
           logoProduct:'https://globalpromoitems.com/tienda/peru/20832-thickbox_default/mochila-antirrobo-ranley.jpg'
         }
@@ -147,14 +147,14 @@ export default  {
         {
           title:'Lavadora/Secadora Eléctrica',
           like: 15,
-          logoPais: 'https://www.flaticon.com/svg/vstatic/svg/555/555605.svg?token=exp=1620174336~hmac=f42e3ba7fb15a8c6f65eea95ef251027',
+          logoPais: 'https://www.calculadoradefletes.com/assets/img/flags/peruRound.svg',
           pais: 'Peru',
           logoProduct:'https://www.milar.es/blog/wp-content/uploads/2021/01/Centrifugado-min.jpg'
         },
         {
           title:'STOCKHOLM TV bench, walnut veneer, 160x40x50',
           like: 30,
-          logoPais: 'https://www.flaticon.com/svg/vstatic/svg/555/555605.svg?token=exp=1620174336~hmac=f42e3ba7fb15a8c6f65eea95ef251027',
+          logoPais: 'https://www.calculadoradefletes.com/assets/img/flags/peruRound.svg',
           pais: 'Peru',
           logoProduct:'https://www.ikea.com/pt/en/images/products/stockholm-tv-bench-walnut-veneer__0851074_pe655467_s5.jpg?f=s'
         },
