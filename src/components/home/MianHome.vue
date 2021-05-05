@@ -32,7 +32,7 @@
         </div>
       </div>
       <div class="col-12 col-sm-12 col-md-6 col-lg-7">
-        hola
+        <img class="extra" src="https://res.cloudinary.com/yfr/image/upload/v1620208223/portafolio/Calculator-pana_pohgpj.svg" alt="">
       </div>
     </div>
   </div>
@@ -48,6 +48,11 @@ export default {
 
 <style lang="scss">
 @import "src/components/style";
+.extra {
+  width: 70%;
+  display: flex;
+  margin: auto;
+}
 .conte-home {
   padding: 32px 32px 250px 32px;
 }
@@ -162,6 +167,12 @@ export default {
   }
   .title-h2 {
     font-size: 25px;
+  }
+  .extra {
+    padding-top: 55px;
+    width: 100%;
+    display: flex;
+    margin: auto;
   }
 }
 </style>
