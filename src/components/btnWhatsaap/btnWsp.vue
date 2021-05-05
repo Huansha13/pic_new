@@ -1,7 +1,7 @@
 <template>
-  <div class="sectionBtnWsp">
+  <div class="sectionBtnWsp animate__animated animate__wobble">
     <input type="checkbox" id="wsp" style="display: none">
-    <div class="wspPaises">
+    <div class="wspPaises animate__animated animate__bounceIn">
       <ul>
         <li><a href=""><span class="namePais">Venezuela</span> &nbsp; <img src="https://www.calculadoradefletes.com/assets/img/flags/venezuelaRound.svg" alt=""> </a></li>
         <li><a href=""><span class="namePais">Peru</span> &nbsp; <img src="https://www.calculadoradefletes.com/assets/img/flags/peruRound.svg" alt=""></a></li>

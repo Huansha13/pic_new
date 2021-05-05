@@ -1,5 +1,5 @@
 <template>
-  <div class="conte-home">
+  <div class="conte-home animate__animated animate__slideInUp">
     <div class="row">
       <div class="col-12 col-sm-12 col-md-6 col-lg-5">
         <div class="box-home">
